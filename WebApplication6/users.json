@@ -1,0 +1,58 @@
+{
+  "Users": [
+
+    {
+      "Id": 0,
+      "Name": "Аркадій",
+      "Age": 37,
+      "Email": "user@example.com",
+      "Phone": "+380987654321"
+    },
+
+    {
+      "Id": 1,
+      "Name": "Джозеф",
+      "Age": 19,
+      "Email": "user1@example.com",
+      "Phone": "+380123456789"
+    },
+    {
+      "Id": 2,
+      "Name": "Майкл",
+      "Age": 30,
+      "Email": "user2@example.com",
+      "Phone": "+380987654321"
+    },
+    {
+      "Id": 3,
+      "Name": "Вася",
+      "Age": 22,
+      "Email": "user3@example.com",
+      "Phone": "+380974598129"
+    },
+    {
+      "Id": 4,
+      "Name": "Артем",
+      "Age": 18,
+      "Email": "user4@example.com",
+      "Phone": "+380968240528"
+    },
+    {
+      "Id": 5,
+      "Name": "Бебей",
+      "Age": 28,
+      "Email": "user5@example.com",
+      "Phone": "+380971234601"
+    },
+
+    {
+      "Id": -1,
+      "Name": "Я",
+      "Age": 19,
+      "Email": "prime102102@gmail.com",
+      "Phone": "+380978031242"
+    }
+
+
+  ]
+}
